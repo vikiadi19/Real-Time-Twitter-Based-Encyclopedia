@@ -1,0 +1,1057 @@
+{
+  "data": [
+    {
+      "text": "RT @ManUtd: \u27a1\ufe0f Up next: #WorldCup quarter-finals.\n\nWell done to you both, @B_Fernandes8 and @DalotDiogo \ud83d\udc4f\ud83c\uddf5\ud83c\uddf9\n\n#MUFC https://t.co/hc7K1YEbRR",
+      "conversation_id": "1600274416495394816",
+      "id": "1600274416495394816",
+      "created_at": "2022-12-06T23:42:07.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 10,
+            "username": "ManUtd",
+            "id": "558797310"
+          },
+          {
+            "start": 74,
+            "end": 87,
+            "username": "B_Fernandes8",
+            "id": "1123232834376933376"
+          },
+          {
+            "start": 92,
+            "end": 103,
+            "username": "DalotDiogo",
+            "id": "3322745836"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 24,
+            "end": 33,
+            "tag": "WorldCup"
+          },
+          {
+            "start": 109,
+            "end": 114,
+            "tag": "MUFC"
+          }
+        ],
+        "urls": [
+          {
+            "start": 115,
+            "end": 138,
+            "url": "https://t.co/hc7K1YEbRR",
+            "expanded_url": "https://twitter.com/ManUtd/status/1600235818656104448/photo/1",
+            "display_url": "pic.twitter.com/hc7K1YEbRR",
+            "media_key": "3_1600235810019762180"
+          },
+          {
+            "start": 115,
+            "end": 138,
+            "url": "https://t.co/hc7K1YEbRR",
+            "expanded_url": "https://twitter.com/ManUtd/status/1600235818656104448/photo/1",
+            "display_url": "pic.twitter.com/hc7K1YEbRR",
+            "media_key": "3_1600235809998868480"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 25,
+            "end": 32,
+            "probability": 0.3731,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          },
+          {
+            "start": 110,
+            "end": 113,
+            "probability": 0.8648,
+            "type": "Organization",
+            "normalized_text": "MUFC"
+          }
+        ]
+      },
+      "author_id": "1057484948276461568",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274416495394816"
+      ]
+    },
+    {
+      "text": "RT @aravinth43AK: Thunivana Worldcup \n\nThala GOAT of Kollywood \nCR7 GOT of Football \nFiFa Worldcup Lusail stadium \n\nwaiting for pongal \ud83d\udca5\ud83d\udca5\ud83d\udca5\u2026",
+      "conversation_id": "1600274411701309440",
+      "id": "1600274411701309440",
+      "created_at": "2022-12-06T23:42:06.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "aravinth43AK",
+            "id": "1142364385144426496"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 26,
+            "probability": 0.4815,
+            "type": "Other",
+            "normalized_text": "Thunivana"
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "probability": 0.4662,
+            "type": "Place",
+            "normalized_text": "Kollywood"
+          },
+          {
+            "start": 99,
+            "end": 112,
+            "probability": 0.434,
+            "type": "Place",
+            "normalized_text": "Lusail stadium"
+          }
+        ]
+      },
+      "author_id": "1048083948050341889",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274411701309440"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274408702373889",
+      "id": "1600274408702373889",
+      "created_at": "2022-12-06T23:42:05.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "1191224468686794753",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274408702373889"
+      ]
+    },
+    {
+      "text": "RT @Tubi: Saving yourself from #WorldCup spoilers be like:",
+      "conversation_id": "1600274399831027712",
+      "id": "1600274399831027712",
+      "created_at": "2022-12-06T23:42:03.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 8,
+            "username": "Tubi",
+            "id": "2363630702"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 31,
+            "end": 40,
+            "tag": "WorldCup"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 32,
+            "end": 39,
+            "probability": 0.9154,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "844438755540975619",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274399831027712"
+      ]
+    },
+    {
+      "text": "RT @___NeverHappy__: Part 2  #porn #ass #doggy #Latina #amatuer #twerk #teen #thot #nsfw #nsfwtw #boobs #stepsis #backshots #milf #pussy #s\u2026",
+      "conversation_id": "1600274398929252352",
+      "id": "1600274398929252352",
+      "created_at": "2022-12-06T23:42:03.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "___NeverHappy__",
+            "id": "1557540977413439491"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 29,
+            "end": 34,
+            "tag": "porn"
+          },
+          {
+            "start": 35,
+            "end": 39,
+            "tag": "ass"
+          },
+          {
+            "start": 40,
+            "end": 46,
+            "tag": "doggy"
+          },
+          {
+            "start": 47,
+            "end": 54,
+            "tag": "Latina"
+          },
+          {
+            "start": 55,
+            "end": 63,
+            "tag": "amatuer"
+          },
+          {
+            "start": 64,
+            "end": 70,
+            "tag": "twerk"
+          },
+          {
+            "start": 71,
+            "end": 76,
+            "tag": "teen"
+          },
+          {
+            "start": 77,
+            "end": 82,
+            "tag": "thot"
+          },
+          {
+            "start": 83,
+            "end": 88,
+            "tag": "nsfw"
+          },
+          {
+            "start": 89,
+            "end": 96,
+            "tag": "nsfwtw"
+          },
+          {
+            "start": 97,
+            "end": 103,
+            "tag": "boobs"
+          },
+          {
+            "start": 104,
+            "end": 112,
+            "tag": "stepsis"
+          },
+          {
+            "start": 113,
+            "end": 123,
+            "tag": "backshots"
+          },
+          {
+            "start": 124,
+            "end": 129,
+            "tag": "milf"
+          },
+          {
+            "start": 130,
+            "end": 136,
+            "tag": "pussy"
+          }
+        ]
+      },
+      "author_id": "1536120934855237632",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274398929252352"
+      ]
+    },
+    {
+      "text": "RT @SGP_Vick: \ud83d\udea8\ud83d\udea8HUGE SUCCESS YESTERDAY\n\nLet\u2019s keep it going on day 2! \n\nMessage me with your odds and I will customize a parlay just for yo\u2026",
+      "conversation_id": "1600274388099551232",
+      "id": "1600274388099551232",
+      "created_at": "2022-12-06T23:42:00.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "SGP_Vick",
+            "id": "1529900333266350090"
+          }
+        ]
+      },
+      "author_id": "3610515674",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274388099551232"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274381090934784",
+      "id": "1600274381090934784",
+      "created_at": "2022-12-06T23:41:58.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "1013051047823241216",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274381090934784"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274378733883392",
+      "id": "1600274378733883392",
+      "created_at": "2022-12-06T23:41:58.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "385483502",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274378733883392"
+      ]
+    },
+    {
+      "text": "RT @aravinth43AK: Thunivana Worldcup \n\nThala GOAT of Kollywood \nCR7 GOT of Football \nFiFa Worldcup Lusail stadium \n\nwaiting for pongal \ud83d\udca5\ud83d\udca5\ud83d\udca5\u2026",
+      "conversation_id": "1600274363424870403",
+      "id": "1600274363424870403",
+      "created_at": "2022-12-06T23:41:54.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "aravinth43AK",
+            "id": "1142364385144426496"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 26,
+            "probability": 0.4815,
+            "type": "Other",
+            "normalized_text": "Thunivana"
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "probability": 0.4662,
+            "type": "Place",
+            "normalized_text": "Kollywood"
+          },
+          {
+            "start": 99,
+            "end": 112,
+            "probability": 0.434,
+            "type": "Place",
+            "normalized_text": "Lusail stadium"
+          }
+        ]
+      },
+      "author_id": "1454858241037398019",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274363424870403"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274359687745536",
+      "id": "1600274359687745536",
+      "created_at": "2022-12-06T23:41:53.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "1625918629",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274359687745536"
+      ]
+    },
+    {
+      "text": "The #QuarterFinals are SET and they're AWESOME!!\n\n#Qatar #FIFAWorldCup\u202f#WorldCup #CopaMundialFIFA https://t.co/yIzrYPp29E",
+      "conversation_id": "1600274356986253312",
+      "id": "1600274356986253312",
+      "created_at": "2022-12-06T23:41:53.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 4,
+            "end": 18,
+            "tag": "QuarterFinals"
+          },
+          {
+            "start": 50,
+            "end": 56,
+            "tag": "Qatar"
+          },
+          {
+            "start": 57,
+            "end": 70,
+            "tag": "FIFAWorldCup"
+          },
+          {
+            "start": 71,
+            "end": 80,
+            "tag": "WorldCup"
+          },
+          {
+            "start": 81,
+            "end": 97,
+            "tag": "CopaMundialFIFA"
+          }
+        ],
+        "urls": [
+          {
+            "start": 98,
+            "end": 121,
+            "url": "https://t.co/yIzrYPp29E",
+            "expanded_url": "https://twitter.com/MEnterprises10/status/1600274356986253312/photo/1",
+            "display_url": "pic.twitter.com/yIzrYPp29E",
+            "media_key": "3_1600274354926809088"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 51,
+            "end": 55,
+            "probability": 0.7954,
+            "type": "Place",
+            "normalized_text": "Qatar"
+          },
+          {
+            "start": 72,
+            "end": 79,
+            "probability": 0.4711,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          },
+          {
+            "start": 82,
+            "end": 96,
+            "probability": 0.6529,
+            "type": "Other",
+            "normalized_text": "CopaMundialFIFA"
+          }
+        ]
+      },
+      "author_id": "1562494075592314881",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274356986253312"
+      ]
+    },
+    {
+      "text": "RT @KhaledBeydoun: With tonight\u2019s Morocco \ud83c\uddf2\ud83c\udde6 win \u2014 Africa has 8 wins this #WorldCup. \n\nThe most ever. And it\u2019s not over.",
+      "conversation_id": "1600274330520154112",
+      "id": "1600274330520154112",
+      "created_at": "2022-12-06T23:41:46.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "KhaledBeydoun",
+            "id": "2163076560"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 74,
+            "end": 83,
+            "tag": "WorldCup"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 34,
+            "end": 40,
+            "probability": 0.9481,
+            "type": "Place",
+            "normalized_text": "Morocco"
+          },
+          {
+            "start": 51,
+            "end": 56,
+            "probability": 0.9441,
+            "type": "Place",
+            "normalized_text": "Africa"
+          },
+          {
+            "start": 75,
+            "end": 82,
+            "probability": 0.4141,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "107548394",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274330520154112"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274301680521216",
+      "id": "1600274301680521216",
+      "created_at": "2022-12-06T23:41:39.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "15140232",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274301680521216"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274293145108480",
+      "id": "1600274293145108480",
+      "created_at": "2022-12-06T23:41:37.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "179582028",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274293145108480"
+      ]
+    },
+    {
+      "text": "RT @LNGames9: Looking for a #gift idea for #Christmas perfect for 3-7 yr olds? Check out our #phonics games &amp; give the #gift of #reading? #\u2026",
+      "conversation_id": "1600274292721143809",
+      "id": "1600274292721143809",
+      "created_at": "2022-12-06T23:41:37.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "LNGames9",
+            "id": "1335312117466066951"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 28,
+            "end": 33,
+            "tag": "gift"
+          },
+          {
+            "start": 43,
+            "end": 53,
+            "tag": "Christmas"
+          },
+          {
+            "start": 93,
+            "end": 101,
+            "tag": "phonics"
+          },
+          {
+            "start": 123,
+            "end": 128,
+            "tag": "gift"
+          },
+          {
+            "start": 132,
+            "end": 140,
+            "tag": "reading"
+          }
+        ]
+      },
+      "author_id": "1335312117466066951",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274292721143809"
+      ]
+    },
+    {
+      "text": "RT @KhaledBeydoun: On my way to the #WorldCup in Qatar.  Let\u2019s go \ud83c\uddf2\ud83c\udde6 Morocco \ud83c\uddf2\ud83c\udde6! https://t.co/KWIQ7VjYF7",
+      "conversation_id": "1600274279224201216",
+      "id": "1600274279224201216",
+      "created_at": "2022-12-06T23:41:34.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 17,
+            "username": "KhaledBeydoun",
+            "id": "2163076560"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 36,
+            "end": 45,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 81,
+            "end": 104,
+            "url": "https://t.co/KWIQ7VjYF7",
+            "expanded_url": "https://twitter.com/KhaledBeydoun/status/1600132391955091457/photo/1",
+            "display_url": "pic.twitter.com/KWIQ7VjYF7",
+            "media_key": "3_1600132234589224961"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 37,
+            "end": 44,
+            "probability": 0.4793,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "probability": 0.9617,
+            "type": "Place",
+            "normalized_text": "Qatar"
+          },
+          {
+            "start": 69,
+            "end": 75,
+            "probability": 0.9761,
+            "type": "Place",
+            "normalized_text": "Morocco"
+          }
+        ]
+      },
+      "author_id": "278875361",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274279224201216"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274246252384256",
+      "id": "1600274246252384256",
+      "created_at": "2022-12-06T23:41:26.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "46860353",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274246252384256"
+      ]
+    },
+    {
+      "text": "Credit where it\u2019s due: Pace nabbing Fields with 11th pick was a steal\n#fifaworldcup #worldcup #newpost\nhttps://t.co/Q8UcUZSTfc",
+      "conversation_id": "1600274233342324736",
+      "id": "1600274233342324736",
+      "created_at": "2022-12-06T23:41:23.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 70,
+            "end": 83,
+            "tag": "fifaworldcup"
+          },
+          {
+            "start": 84,
+            "end": 93,
+            "tag": "worldcup"
+          },
+          {
+            "start": 94,
+            "end": 102,
+            "tag": "newpost"
+          }
+        ],
+        "urls": [
+          {
+            "start": 103,
+            "end": 126,
+            "url": "https://t.co/Q8UcUZSTfc",
+            "expanded_url": "https://besthinditech.com/credit-where-its-due-pace-nabbing-fields-with-11th-pick-was-a-steal/?feed_id=802&_unique_id=638fd322dc25f",
+            "display_url": "besthinditech.com/credit-where-i\u2026",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1600274242280439808/afCeOmq3?format=jpg&name=orig",
+                "width": 1461,
+                "height": 834
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1600274242280439808/afCeOmq3?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Credit where it\u2019s due: Pace nabbing Fields with 11th pick was a steal - Best Hindi Tech",
+            "description": "Drafting football players is as much art as it is science. Especially with quarterbacks, specifically in the first round. Those players are supposed to",
+            "unwound_url": "https://besthinditech.com/credit-where-its-due-pace-nabbing-fields-with-11th-pick-was-a-steal/?feed_id=802&_unique_id=638fd322dc25f"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 36,
+            "end": 41,
+            "probability": 0.5153,
+            "type": "Person",
+            "normalized_text": "Fields"
+          },
+          {
+            "start": 71,
+            "end": 82,
+            "probability": 0.4237,
+            "type": "Other",
+            "normalized_text": "fifaworldcup"
+          }
+        ]
+      },
+      "author_id": "1476165846057644034",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274233342324736"
+      ]
+    },
+    {
+      "text": "RT @AFCAjax: Meanwhile at the #WorldCup \ud83e\udef6 https://t.co/TpG98rHo44",
+      "conversation_id": "1600274197208477698",
+      "id": "1600274197208477698",
+      "created_at": "2022-12-06T23:41:14.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 11,
+            "username": "AFCAjax",
+            "id": "153000691"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 30,
+            "end": 39,
+            "tag": "WorldCup"
+          }
+        ],
+        "urls": [
+          {
+            "start": 42,
+            "end": 65,
+            "url": "https://t.co/TpG98rHo44",
+            "expanded_url": "https://twitter.com/AFCAjax/status/1600272374116458498/photo/1",
+            "display_url": "pic.twitter.com/TpG98rHo44",
+            "media_key": "3_1600270035376918539"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 31,
+            "end": 38,
+            "probability": 0.6441,
+            "type": "Other",
+            "normalized_text": "WorldCup"
+          }
+        ]
+      },
+      "author_id": "780095793445363712",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274197208477698"
+      ]
+    },
+    {
+      "text": "RT @aravinth43AK: Thunivana Worldcup \n\nThala GOAT of Kollywood \nCR7 GOT of Football \nFiFa Worldcup Lusail stadium \n\nwaiting for pongal \ud83d\udca5\ud83d\udca5\ud83d\udca5\u2026",
+      "conversation_id": "1600274196923547648",
+      "id": "1600274196923547648",
+      "created_at": "2022-12-06T23:41:14.000Z",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 16,
+            "username": "aravinth43AK",
+            "id": "1142364385144426496"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 26,
+            "probability": 0.4815,
+            "type": "Other",
+            "normalized_text": "Thunivana"
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "probability": 0.4662,
+            "type": "Place",
+            "normalized_text": "Kollywood"
+          },
+          {
+            "start": 99,
+            "end": 112,
+            "probability": 0.434,
+            "type": "Place",
+            "normalized_text": "Lusail stadium"
+          }
+        ]
+      },
+      "author_id": "1302898461709279232",
+      "lang": "en",
+      "edit_history_tweet_ids": [
+        "1600274196923547648"
+      ]
+    }
+  ],
+  "meta": {
+    "newest_id": "1600274416495394816",
+    "oldest_id": "1600274196923547648",
+    "result_count": 20,
+    "next_token": "b26v89c19zqg8o3fqk0zkj2cubxx59heksoqfeo5vhl6l"
+  }
+}
